@@ -1,0 +1,10 @@
+.green{
+    background-color: green;
+    padding: 20px;
+    border: 1px solid greenyellow;
+}
+
+.header{
+    background-color: darkblue;
+    color:rgb(117, 117, 242) ;
+}
